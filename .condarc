@@ -1,0 +1,4 @@
+channels:
+  - defaults
+
+binstar_upload: no
